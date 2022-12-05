@@ -28,6 +28,7 @@ Bitte beachten Sie, dass innerhalb der Uni über eduroam auch Moodle zur Verfüg
 Stand: 2022-12-05
 
 [Impressum](https://www.uni-due.org/impressum)
+
 [Datenschutzerklärung](https://www.uni-due.org/datenschutzerklaerung/)
 
 [Cookie-Richtlinie](https://www.uni-due.org/cookie-richtlinie-eu/)
