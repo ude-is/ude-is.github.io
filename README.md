@@ -25,4 +25,10 @@ Für Ankündigungen und Downloads zu Lehrveranstaltungen haben wir sciebo-Boxen 
 Bitte beachten Sie, dass innerhalb der Uni über eduroam auch Moodle zur Verfügung steht. Auch dort finden Sie alle Materialien sowie die Links zu den sciebo-Boxen.
 
 ---
-Stand: 2022-12-02
+Stand: 2022-12-05
+
+Impressum: https://www.uni-due.org/impressum
+
+Datenschutzerklärung: https://www.uni-due.org/datenschutzerklaerung/
+
+Cookie-Richtlinie: https://www.uni-due.org/cookie-richtlinie-eu/
